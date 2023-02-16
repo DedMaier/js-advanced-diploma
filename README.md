@@ -1,3 +1,4 @@
+https://dedmaier.github.io/js-advanced-diploma/
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
 ###### tags: `netology` `advanced js`
